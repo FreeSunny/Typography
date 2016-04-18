@@ -5,7 +5,8 @@
 
 ##效果图
 主要实现了一个如下图所示的效果！有左右两列数据，右边的需要对齐，左边的数据长短不一致
-![效果图](https://github.com/FreeSunny/Typography/app/src/main/res/drawable-xxhdpi/sample_picture.png)
+
+![效果图](https://github.com/FreeSunny/Typography/blob/master/app/src/main/res/drawable-xxhdpi/sample_picture.png)
 
 ##实现方式
 主要实现了以下几种方式
