@@ -1,0 +1,15 @@
+<resources>
+    <string name="typography">Typography</string>
+    <string name="sample_ui">需要实现的效果图</string>
+    <string name="typography_implement1">实现1</string>
+    <string name="typography_implement2">实现2</string>
+    <string name="typography_implement3">实现3</string>
+    <string name="typography_implement4">实现4</string>
+    <string name="typography_implement5">实现5</string>
+    <string name="typography_implement6">实现6</string>
+    <string name="typography_implement7">实现7</string>
+    <string name="typography_implement8">实现8</string>
+
+    <string name="implement_effect">实现效果如下</string>
+    <string name="grid_layout">grid_layout实现效果如下</string>
+</resources>
